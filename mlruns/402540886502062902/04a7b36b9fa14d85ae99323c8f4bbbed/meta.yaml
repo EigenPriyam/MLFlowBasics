@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/402540886502062902/04a7b36b9fa14d85ae99323c8f4bbbed/artifacts
+end_time: 1731876433308
+entry_point_name: ''
+experiment_id: '402540886502062902'
+lifecycle_stage: active
+run_id: 04a7b36b9fa14d85ae99323c8f4bbbed
+run_name: placid-yak-534
+run_uuid: 04a7b36b9fa14d85ae99323c8f4bbbed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731876429614
+status: 3
+tags: []
+user_id: agraw

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/402540886502062902/5afb70b5c6cd460e9bdf5a4240f27d7f/artifacts
+end_time: 1731443887791
+entry_point_name: ''
+experiment_id: '402540886502062902'
+lifecycle_stage: active
+run_id: 5afb70b5c6cd460e9bdf5a4240f27d7f
+run_name: capable-stork-292
+run_uuid: 5afb70b5c6cd460e9bdf5a4240f27d7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731443874729
+status: 3
+tags: []
+user_id: agraw

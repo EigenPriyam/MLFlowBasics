@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/402540886502062902/66619f3314de4049a819bbe65f671e96/artifacts
+end_time: 1731443911424
+entry_point_name: ''
+experiment_id: '402540886502062902'
+lifecycle_stage: active
+run_id: 66619f3314de4049a819bbe65f671e96
+run_name: blushing-midge-62
+run_uuid: 66619f3314de4049a819bbe65f671e96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731443907991
+status: 3
+tags: []
+user_id: agraw
